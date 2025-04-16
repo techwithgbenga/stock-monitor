@@ -14,14 +14,16 @@ This project monitors specified stocks in real-time, logging their prices and se
 
 1. Clone the repository.
 2. Install dependencies:
-   ```bash
+
+```bash
    pip install -r requirements.txt
  ```
 3. Edit config.json:
 - Add the stock symbols you wish to monitor.
 - Set your desired alert threshold percentage.
 - Provide your email configuration for alerts.
-   ```bash
+
+```bash
    python stock_monitor.py
  ```
 ## Future Improvements
