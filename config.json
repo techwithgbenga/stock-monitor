@@ -1,0 +1,13 @@
+{
+  "stocks": ["AAPL", "GOOGL", "TSLA"],
+  "threshold": 1.0,  
+  "email": {
+    "sender": "your-email@gmail.com",
+    "receiver": "alert-receiver@example.com",
+    "smtp_server": "smtp.gmail.com",
+    "port": 465,
+    "password": "your-email-password"
+  },
+  "csv_file": "stock_prices.csv",
+  "plot_folder": "plots"
+}
