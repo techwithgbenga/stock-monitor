@@ -17,7 +17,7 @@ This project monitors specified stocks in real-time, logging their prices and se
 git clone https://github.com/techwithgbenga/stock_monitor.git
 cd stock_monitor
  ```
-3. Install dependencies:
+2. Install dependencies:
 
 ```bash
    pip install -r requirements.txt
